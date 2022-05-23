@@ -1,0 +1,25 @@
+.container  {
+display: flex;
+min-height: 100vh;
+flex-direction: column;
+}
+
+
+.box {
+    color: navy;
+    font-size: 100px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: center;
+    padding:15px;
+    width: 400px;
+}
+.box1{background-color: #2FF3E0;}
+.box2{background-color: #F8D210;}
+.box3{background-color: #FA26A0;}
+.box4{background-color: #F51720;}
+.box5{background-color: #AC8E60;}
+.box6{background-color: #E9DAC4;}
+.box7{background-color: #749EB2;}
+.box8{background-color: #BD8E83;}
+.box9{background-color: #6F5B3E;}
+.box10{background-color: #C4AE78;}
